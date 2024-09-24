@@ -210,6 +210,10 @@ curator_opensearch-0.0.12-py2.py3-none-any.whl:
   size: 107475
   object_id: 83d3ff51-9d41-4252-49a5-8f152ad36d8f
   sha: sha256:a284addcb616e2257f8042d764195917c22c046ae930011150717040412f890a
+logstash/jason.zip:
+  size: 25396231
+  object_id: 4f01d7e5-4366-4d46-5e40-130f14965d5d
+  sha: sha256:6eb1f81f9768218ee3ebc00d63d10d316a3d1428341eb251d0c32418c24c1954
 logstash/logstash-8.9.2-linux-x86_64.tar.gz:
   size: 346522558
   object_id: 61bc773e-e0a2-4cf5-416e-0964a3d83978
@@ -222,6 +226,10 @@ logstash/logstash-filter-translate-3.4.2.zip:
   size: 649362
   object_id: e9b87119-265c-43ce-788d-5592aabffcb3
   sha: sha256:f465635431b474abaf61c6673d7c91cb5f62b09a193d45a5622342f5a5b967c6
+logstash/logstash-input-cloudwatch_logs-1.0.4.zip:
+  size: 73273631
+  object_id: 6f80a2b6-c3bf-4c2e-6c4e-5b99eee310b3
+  sha: sha256:2d80363ae50bbec723d6424f23f722b887105d4aded09189f5cbe3fef85b8a8a
 logstash/logstash-input-relp-3.0.4.zip:
   size: 44725
   object_id: 2e183484-97da-4e51-4311-51e024d0665b
@@ -246,10 +254,6 @@ logstash/logstash-output-syslog-3.0.5.zip:
   size: 41727
   object_id: 21474ee6-824a-4547-7f45-b236864358ab
   sha: sha256:80a2b08f2b58ae81c823cc0bb1dd7956fbc173037fc621bfa31af34140724e02
-logstash/logstash-input-cloudwatch_logs-1.0.4.zip:
-  size: 73273631
-  object_id: 6f80a2b6-c3bf-4c2e-6c4e-5b99eee310b3
-  sha: sha256:2d80363ae50bbec723d6424f23f722b887105d4aded09189f5cbe3fef85b8a8a
 opensearch-2.14.0-linux-x64.tar.gz:
   size: 887872915
   object_id: 46c6a9e0-7ae0-4bf0-4bbb-524ddaed1941
