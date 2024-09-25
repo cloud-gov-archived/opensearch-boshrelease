@@ -1,14 +1,14 @@
 input
 {
-  cloudwatch_logs
+  cloudwatch
   {
-    log_group_prefix => true
-    <% if_p("logstash_ingestor.cloudwatch.prefix") do |prefix_list| %>
-    log_group => "<%= prefix_list %>"
-    <% end %>
+    namespace => "AWS/ES"
+    metrics => [ "CPUUtilization" ]
+    filters => { "tag:Monitoring" => "Yes" }
     <% if_p("logstash_ingestor.cloudwatch.region") do |region_zone| %>
-    region => "<%= region_zone %>"
+      region => "<%= region_zone %>"
     <% end %>
+	  prefix => "cg-broker-prd"
   }
 }
 

@@ -212,8 +212,8 @@ curator_opensearch-0.0.12-py2.py3-none-any.whl:
   sha: sha256:a284addcb616e2257f8042d764195917c22c046ae930011150717040412f890a
 logstash/jason.zip:
   size: 25396237
-  object_id: f4b08966-b32f-4b5c-6408-648ec2e78fac
-  sha: sha256:5a3702fa5e6587d054b1d4e8720a671a95c82c632e07d09dc0b2c6a7c7a23f95
+  object_id: f25d9588-de0d-4cab-4389-2182d9067d68
+  sha: sha256:8a947426255b337fd40192743bfa2da2bae34792de4693ccf3cbb18e51f3adca
 logstash/logstash-8.9.2-linux-x86_64.tar.gz:
   size: 346522558
   object_id: 61bc773e-e0a2-4cf5-416e-0964a3d83978
