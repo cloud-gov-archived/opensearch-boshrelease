@@ -80,4 +80,4 @@ fi
     --path.settings ${JOB_DIR}/config \
     --pipeline.ecs_compatibility <%= p("logstash.ecs_compatibility") %> \
     --pipeline.workers ${LOGSTASH_WORKERS} \
-    --log.format=json --log.level=<%= p("logstash.log_level") %>
+    --log.format=json --log.level=debug
