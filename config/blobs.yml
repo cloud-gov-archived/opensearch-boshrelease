@@ -215,9 +215,9 @@ logstash/jason.zip:
   object_id: f25d9588-de0d-4cab-4389-2182d9067d68
   sha: sha256:8a947426255b337fd40192743bfa2da2bae34792de4693ccf3cbb18e51f3adca
 logstash/jasonz.zip:
-  size: 25390234
-  object_id: e06281cf-6045-4a18-661d-fce6d057da01
-  sha: sha256:10c74aea8a90b9323fbfc15a2505fd67fc98a40a08fef0bac707b079d53da88e
+  size: 25390243
+  object_id: 671f42dd-9ecd-4755-41b8-31c1b9340613
+  sha: sha256:62648af9ba307b4d095c61f95567ce39fd084b64af81c8290eb771e32c54d8b9
 logstash/logstash-8.9.2-linux-x86_64.tar.gz:
   size: 346522558
   object_id: 61bc773e-e0a2-4cf5-416e-0964a3d83978
